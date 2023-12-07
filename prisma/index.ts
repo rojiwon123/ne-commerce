@@ -17,7 +17,7 @@ const config: psg.IConfiguration = {
             name: "erd",
             provider: "prisma-markdown",
             output: "../ERD.md",
-            title: "Template",
+            title: "NE-Commerce",
         },
     ],
 };
